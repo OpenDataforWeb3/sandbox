@@ -36,7 +36,7 @@ We are extremely proud of all alumnni hackathon contestants.  Many alumnni are c
 
 - [Find additional Sandbox design in development here](https://miro.com/app/board/uXjVPlv-XQA=/)
  
-Please join us!
-
-[General Sandbox Discord Channel](https://discord.com/channels/1037443230993743902/1075078081439604746)
+ 
+Please join us!  
+[General Sandbox Discord Channel](https://discord.com/channels/1037443230993743902/1075078081439604746)  
 https://opendatacommunity.org/ 
