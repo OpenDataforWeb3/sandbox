@@ -35,5 +35,8 @@ To create your project please start through the sandbox teams [repo](https://git
 We are extremely proud of all alumnni hackathon contestants.  Many alumnni are collaborating on the Sandbox and other projects now.
 
 - [Find additional Sandbox design in development here](https://miro.com/app/board/uXjVPlv-XQA=/)
-  
+ 
 Please join us!
+
+[General Sandbox Discord Channel](https://discord.com/channels/1037443230993743902/1075078081439604746)
+https://opendatacommunity.org/ 
