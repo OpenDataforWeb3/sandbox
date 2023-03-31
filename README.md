@@ -36,8 +36,4 @@ We are extremely proud of all alumnni hackathon contestants.  Many alumnni are c
 
 - [Find additional Sandbox design in development here](https://miro.com/app/board/uXjVPlv-XQA=/)
   
-![sandbox-discord](sandbox-discord-woot-project.png)
-![sandbox-github](sandbox-github-woot-project.png)
-
-
 Please join us!
