@@ -1,67 +1,58 @@
 # Sandbox
-This repository collects efforts by the OpenData Community to support and even lead open source projects that support our mission.
 
-We are in the process of defining our v 1.0 of this support.  You can join that discussion and help out by joining the #sandbox channel on our Discord.
+This repository collects projects that have followed our pipeline and have been sponsored by the community, they are open source and support our mission. 
 
-## Likely areas of support may include:
-- A home for useful projects
-   - if needed, sub repositories here or elsewhere
-   - dedicated Discord channel
-   - web site listings
+The Sandbox pipeline have been designed by the community and can be found [here on our forum](https://forum.opendatacommunity.org/t/project-pipeline-in-detail/28/5).
+
+To create your project please start through the sandbox teams [repo](https://github.com/orgs/OpenDataforWeb3-sandbox/repositories) and follow the pipeline, as your project matures and fulfills the process requirements it will be displayed here.
+
+## Current Sandbox Teams
+
+1. [Grant Review Dashboard](https://github.com/OpenDataforWeb3-sandbox/Grant-Review-Dashboard)
+1. [Lego Curration](https://github.com/OpenDataforWeb3-sandbox/Lego-Curration)
+1. [Sybil Dashboard](https://github.com/OpenDataforWeb3-sandbox/Sybil-Dashboard)
+
+## What is a Sandbox Team 
+
+Any individual or team that wants to self organize
+
+## What are the Requirements to being a Sandbox Team
+
+1. Be an ODC member in good standing
+1. Have a great idea for a project that is aligned with the ODC mission and values
+1. Indication of intent and capabilities
+1. ODC Jedi reviews Sandbox application for minimum requirements
+
+## What are the benefits to being a Sandbox Team
+
+1. ODC Sandbox repository to hold your code and documentation
+1. ODC Discord channel for communications
+1. Mentoring on agile software development practices, Github CICD, Github project management tools, and how to use Git with Github repositories. If the Sandbox team opts to use other project management tooling, the mentoring options are best effort depending on the community experience and availability.
+1. Ability to build on top of the ODC community of open data
+
+## First step on the project pipeline
+
+As an ODC member you can request to be a Sandbox team through the Discourse forum as a Sandbox Team Proposal. Simply copy the form and follow the instructions. Any ODC member is allowed to create a sandbox team. The [Sandbox Team Proposal instructions can be found here](https://forum.opendatacommunity.org/t/sandbox-team-proposal/30).
+
+![Sandbox Team Proposal](sandbox-team-proposal.png)
+
+## Support from ODC to the Sandbox Teams include
+
 - Ongoing promotion 
    - Twitter spaces 
 - Technical reviews
-   - This due dilligence can be useful 
+   - This due diligence can be useful 
    - Due dilligence will also be used to determine which projects to highlight
-- Featured inclusion in the Landscape
-- Featured inclusion in our data stack
 - Hackathon focus
-   - Sandbox projects that have been reviewed may be featured in hackathons
-- Ongoing hackathon - aka bounties
+   - Sandbox Teams may be featured in hackathons and / or supported by hackathon bounties
 
-## Future directions may include:
+## Future Sandbox Teams support may include:
 - Grants program
 - Aqueduct
 - Governance or metagovernance assistance
 - Smart contract audits
 - Other launch assistance
 
-We are extremely proud of all alumnni hackathon contestants.  Many alumnni are collaborating on the Sandbox and other projects now.
+We are extremely proud of all alumnni hackathon contestants.  Many alumnni are collaborating on the Sandbox and other projects now. [Review our past and future Hackathons here](https://opendatacommunity.org)
 
-## Regarding Sandbox requirements, projects should:
-- have a stated open source license
-    - at this time we think either GPT3 or Apache2 are preferable
-- be able to concisely communicate their value and status
-    - why does the project exist
-    - what are the immediate development and other priorities
-    - how can the ODC help?
-
-## How to become a ODC Sandbox project
-- Long term we want the sandbox to be self serve for any ODC member to be able to create a project with a mimimum of overhead to get started
-- Short term we need to limit the number of projects as we get started. We will figure out how to support more projects with less staff and volunteers. 
-- **A Link will be provided here shortly for signup. We will also be reaching out directly to a few teams and projects.** 
-
-## Our best estimate of what we will provide to a ODC Sandbox project
-- We provide ODC mentoring to help new members on how to operate a project. The ODC Jedi are the mentors to start.
-- We provide the ODC Sandbox github organization https://github.com/OpenDataforWeb3-sandbox 
-- The https://github.com/OpenDataforWeb3/sandbox is location of all the how to create and maintain an ODC sandbox project documentation and the index to all the sandbox projects
-- We provide easy instructions on how to create a repository within the ODC Sandbox github organization for their work and team. Two good options:
-  - Make the project leader a member of the github organization and have them follow https://docs.github.com/en/get-started/quickstart/create-a-repo OR
-  - Ask the project leader to push a PR "Create a Sandbox Repository for my XYZ Project" to the OpenDataforWeb3/Sandbox repository and we automate the creation of the repository.
-- We provide access to tools:
-  - Comms: Discord
-  - Project: Github Projects (we setup a project and a training session on using with issues)
-  - Wiki: Github wiki (we setup a basic pages)
-  - Repository: Github
-  - IDE: Visual Studio Code, Github online, and HackMD (we help the project get setup and a training session on pushing PRs)
-  - CICD: Github Actions (TBD what we can support)
-  - OpenData stack: Operating stack to be used by the ODC members in the analysis and support of sandbox projects. Likely from the [landscape](../../docs/landscape.md) options. Partners and / or sponsors may contribute licensing and pricing options. (TBD what we can support) 
-  - **A good place to futher develop strategy on this will be at ETHDenver. Let's revisit design after.**
-  - [Find additional Sandbox design in development here](https://miro.com/app/board/uXjVPlv-XQA=/)
-  
-![sandbox-discord](sandbox-discord-woot-project.png)
-![sandbox-github](sandbox-github-woot-project.png)
-
-
-Please join us!
-
+- Please join us! [Find additional Sandbox discussion and assistance here:](https://discord.com/channels/1037443230993743902/1075078081439604746)
