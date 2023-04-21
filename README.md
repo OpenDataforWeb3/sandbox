@@ -9,6 +9,7 @@ The Sandbox pipeline was  designed by the community and can be found [here on ou
 1. [Grant Review Dashboard](https://github.com/OpenDataforWeb3-sandbox/Grant-Review-Dashboard)
 1. [Lego Curration](https://github.com/OpenDataforWeb3-sandbox/Lego-Curration)
 1. [Sybil Dashboard](https://github.com/OpenDataforWeb3-sandbox/Sybil-Dashboard)
+1. [Data Dex](https://github.com/davidgasquez/datadex)
 
 Additionally we support the decentralized and local indexing project TrueBlocks and are particularly bullish about the potential of the TrueBlocks based "Unchained Index" to become a public good:  [https://trueblocks.io/](https://trueblocks.io/)
 
