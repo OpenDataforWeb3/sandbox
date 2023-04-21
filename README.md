@@ -2,9 +2,7 @@
 
 This repository highlights projects that are supported by the OpenData community; these are all open source and support our mission. 
 
-The Sandbox pipeline have been designed by the community and can be found [here on our forum](https://forum.opendatacommunity.org/t/project-pipeline-in-detail/28/5).
-
-To create your project please start through the sandbox teams [repo](https://github.com/orgs/OpenDataforWeb3-sandbox/repositories) and follow the pipeline, as your project matures and fulfills the process requirements it will be displayed here.  
+The Sandbox pipeline was  designed by the community and can be found [here on our forum](https://forum.opendatacommunity.org/t/project-pipeline-in-detail/28/5).
 
 ## Current Sandbox Projects
 
@@ -12,16 +10,11 @@ To create your project please start through the sandbox teams [repo](https://git
 1. [Lego Curration](https://github.com/OpenDataforWeb3-sandbox/Lego-Curration)
 1. [Sybil Dashboard](https://github.com/OpenDataforWeb3-sandbox/Sybil-Dashboard)
 
+Additionally we support the decentralized and local indexing project TrueBlocks and are particularly bullish about the potential of the TrueBlocks based "Unchained Index" to become a public good:  [https://trueblocks.io/](https://trueblocks.io/)
+
 ## What is a Sandbox Project 
 
 A Sandbox project is similar to a Sandbox project as defined by the Cloud Native Computing Foundation.  Sandbox projects have been initially reviewed and supported by OpenData Community members for their value and alignment with the mission of the OpenData Community.  
-
-## What are the Requirements to becoming a Sandbox Project
-
-1. Be an ODC member in good standing
-1. Have a great idea for a project that is aligned with the ODC mission and values
-1. Indication of intent and capabilities
-1. ODC Jedi reviews Sandbox project for minimum requirements
 
 ## What are the benefits to being a Sandbox Project
 
@@ -36,6 +29,13 @@ A Sandbox project is similar to a Sandbox project as defined by the Cloud Native
 ## Formalizing Sandbox project inclusion
 
 Any ODC member  can request to be a Sandbox Project through a form available on our Discourse forum. Simply copy the form and follow the instructions. The [Sandbox Team Proposal instructions can be found here](https://forum.opendatacommunity.org/t/sandbox-team-proposal/30).
+
+## What are the Requirements to becoming a Sandbox Project
+
+1. Be an ODC member in good standing
+1. Have a great idea for a project that is aligned with the ODC mission and values
+1. Indication of intent and capabilities
+1. ODC Jedi reviews Sandbox project for minimum requirements
 
 ![Sandbox Team Proposal](sandbox-team-proposal.png)
 
