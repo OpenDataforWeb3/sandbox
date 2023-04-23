@@ -9,7 +9,7 @@ The Sandbox pipeline was  designed by the community and can be found [here on ou
 1. [Grant Review Dashboard](https://github.com/OpenDataforWeb3-sandbox/Grant-Review-Dashboard)
 1. [Lego Curration](https://github.com/OpenDataforWeb3-sandbox/Lego-Curration)
 1. [Sybil Dashboard](https://github.com/OpenDataforWeb3-sandbox/Sybil-Dashboard)
-1. [Data Dex](https://github.com/davidgasquez/datadex)
+1. [Datadex](https://github.com/davidgasquez/datadex)
 
 Additionally we support the decentralized and local indexing project TrueBlocks and are particularly bullish about the potential of the TrueBlocks based "Unchained Index" to become a public good:  [https://trueblocks.io/](https://trueblocks.io/)
 
@@ -29,7 +29,7 @@ A Sandbox project is similar to a Sandbox project as defined by the Cloud Native
 
 ## Formalizing Sandbox project inclusion
 
-Any ODC member  can request to be a Sandbox Project through a form available on our Discourse forum. Simply copy the form and follow the instructions. The [Sandbox Team Proposal instructions can be found here](https://forum.opendatacommunity.org/t/sandbox-team-proposal/30).
+Any ODC member  can request to be a Sandbox Project through a form available on our Discourse forum. Simply copy the form and follow the instructions. The [Sandbox Team Proposal instructions can be found here](https://forum.opendatacommunity.org/t/sandbox-project-proposal-v2/40).
 
 ## What are the Requirements to becoming a Sandbox Project
 
@@ -38,7 +38,7 @@ Any ODC member  can request to be a Sandbox Project through a form available on 
 1. Indication of intent and capabilities
 1. ODC Jedi reviews Sandbox project for minimum requirements
 
-![Sandbox Team Proposal](sandbox-team-proposal.png)
+![Sandbox Team Proposal](sandbox-team-proposal-v2.png)
 
 ## Future Sandbox Teams support may include:
 - Grants program
